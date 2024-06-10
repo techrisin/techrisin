@@ -2,6 +2,8 @@ Hello
 
 welcome to Techris Innovation Hub
 
+Get the source code and executables for useful apps in Linux, Android, Windows, Raspberry Pi and Libre computer
+
 Visit us @ 
 [
 techris.in](https://techris.in/)
